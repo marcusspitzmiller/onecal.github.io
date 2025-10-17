@@ -51,13 +51,6 @@ AdMob and Apple handle their data independently under their respective privacy p
 
 ⸻
 
-6. Contact Us
-
-If you have questions about this policy or your data, contact:
-📧 support@onecal.app
-
-⸻
-
-7. Updates
+6. Updates
 
 We may update this policy from time to time. The latest version will always be available at the URL provided on the App Store listing.
